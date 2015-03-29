@@ -1,2 +1,6 @@
+tests/__pycache__
 /__pycache__
 /env
+devstackrc
+*.json
+*.egg-info
